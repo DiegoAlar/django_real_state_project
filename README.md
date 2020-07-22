@@ -8,7 +8,7 @@ Full-featured Django application using with following features: addition of prop
 
 ![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop1.png)
 
-![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop2.png)
+![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/pro2.png)
 
 ![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop3.png)
 
