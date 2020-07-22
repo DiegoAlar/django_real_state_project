@@ -6,11 +6,11 @@ Real State Web App
 
 Full-featured Django application using with following features: addition of properties for sale or rent, contact form, search bar, among others
 
-![web app](https://raw.githubusercontent.com/DiegoAlar/django_blog_project/master/blog1.png)
+![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop1.png)
 
-![web app](https://raw.githubusercontent.com/DiegoAlar/django_blog_project/master/blog2.png)
+![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop2.png)
 
-![web app](https://raw.githubusercontent.com/DiegoAlar/django_blog_project/master/blog2.png)
+![web app](https://raw.githubusercontent.com/DiegoAlar/django_real_state_project/master/prop3.png)
 
 
 ## Getting Started
@@ -43,4 +43,4 @@ $ sudo python3 manage.py runserver
 ```
 
 ## Author
-This Repository is written and mantained by **Diego A. Alarcon** (alarkondiego@gmail.com) 
+This Repository is written and mantained by **Diego A. Alarcon** (alarkondiego@gmail.com)
